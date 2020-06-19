@@ -1,0 +1,12 @@
+﻿@model Asignatura
+
+@{
+    ViewData["Title"] = "Información Asignatura";
+    Layout = "Simple";
+}
+<h1> @ViewData["Title"]</h1>
+<strong>Desde la vista normal</strong>
+@* <h3>Fecha: @ViewData["Fecha"] </h3> *@
+<strong>Desde la vista parcial</strong>
+<partial name="ObjetoEscuelaSimple"/>
+@* <p><i>@ViewData["CosaDinamica"]</i></p> *@
