@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\practti2\\Desktop\\Curso Platzi\\ASP\\Platzi\\Platzi.csproj": {}
+    "C:\\Users\\johan\\Desktop\\Practicas\\Platzi\\ASP\\Platzi\\Platzi.csproj": {}
   },
   "projects": {
-    "D:\\Users\\practti2\\Desktop\\Curso Platzi\\ASP\\Platzi\\Platzi.csproj": {
+    "C:\\Users\\johan\\Desktop\\Practicas\\Platzi\\ASP\\Platzi\\Platzi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\practti2\\Desktop\\Curso Platzi\\ASP\\Platzi\\Platzi.csproj",
+        "projectUniqueName": "C:\\Users\\johan\\Desktop\\Practicas\\Platzi\\ASP\\Platzi\\Platzi.csproj",
         "projectName": "Platzi",
-        "projectPath": "D:\\Users\\practti2\\Desktop\\Curso Platzi\\ASP\\Platzi\\Platzi.csproj",
-        "packagesPath": "D:\\Users\\practti2\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\practti2\\Desktop\\Curso Platzi\\ASP\\Platzi\\obj\\",
+        "projectPath": "C:\\Users\\johan\\Desktop\\Practicas\\Platzi\\ASP\\Platzi\\Platzi.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\Desktop\\Practicas\\Platzi\\ASP\\Platzi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "D:\\Users\\practti2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +40,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

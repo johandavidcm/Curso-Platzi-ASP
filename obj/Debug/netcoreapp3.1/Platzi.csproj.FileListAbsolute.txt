@@ -40,3 +40,6 @@ D:\Users\practti2\Desktop\Curso Platzi\ASP\Platzi\obj\Debug\netcoreapp3.1\Razor\
 D:\Users\practti2\Desktop\Curso Platzi\ASP\Platzi\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\Index.cshtml.g.cs
 D:\Users\practti2\Desktop\Curso Platzi\ASP\Platzi\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\MultiAsignatura.cshtml.g.cs
 D:\Users\practti2\Desktop\Curso Platzi\ASP\Platzi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ObjetoEscuelaSimple.cshtml.g.cs
+D:\Users\practti2\Desktop\Curso Platzi\ASP\Platzi\obj\Debug\netcoreapp3.1\Razor\Views\Alumno\Index.cshtml.g.cs
+D:\Users\practti2\Desktop\Curso Platzi\ASP\Platzi\obj\Debug\netcoreapp3.1\Razor\Views\Alumno\MultiAlumno.cshtml.g.cs
+D:\Users\practti2\Desktop\Curso Platzi\ASP\Platzi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ListaObjetosEscuela.cshtml.g.cs
